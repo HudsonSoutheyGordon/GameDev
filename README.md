@@ -10,7 +10,7 @@ As I've stated elsewhere in my profile, I am deeply passionate about how softwar
 
 forestree. is a mobile puzzle game centered around planting trees both virtually and around the world! Strategically build the ultimate ecosystem by placing wildlife and plant life across unique biomes.
 
-![Playing the Game](Images/forestree_forest.gif)
+![Playing the Game](Images/forestree/forestree_forest.gif)
 
 #### Biggest Development Challenge
 This was my first large-scale project. I went into it incredibly naively. My file structure was poor, and I was not as concerned about accruing technical debt as I should have been. This was fine for 90% of the project, but refactoring for performance in the final sprint was a nightmare. Eventually, I did succeed and I'm proud of the performance I was able to achieve with it.
