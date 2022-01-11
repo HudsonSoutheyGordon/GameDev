@@ -4,8 +4,7 @@ A collection of the games I have worked on: forestree. Wi2ards, Desert Drift, an
 This repo is an overview of each of my gamedev projects. Unfortunately, I cannot host the source code for these out of respecting my teammates wishes, and contractual obligations but I still think it is worth demonstrating them here for my portfolio. If you are an interested collaborator or potential employer, I would be happy to share elements of the code privately.
 
 # forestree.
----
-My first full fledged release which I solo-developed, and was released in partnership with (tentree)[https://www.tentree.com/].
+My first full fledged release which I solo-developed, and was released in partnership with [tentree](https://www.tentree.com/).
 As I've stated elsewhere in my profile, I am deeply passionate about how software can be a tool for social good. I decided to integrate this passion with my long-time hobby of game development to create a charity-forward game-dev studio: (Give Grow Games.)[givegrow.games] The idea is that each game we make has philanthropy integrated into its DNA.
 
 forestree. is a mobile puzzle game centered around planting trees both virtually and around the world! Strategically build the ultimate ecosystem by placing wildlife and plant life across unique biomes.
@@ -28,15 +27,17 @@ One thing I was really worried about with a grid-based game was a performant sol
 * Spend the time upfront to make a good filestructure, it pays dividends in the home-stretch of the project.
 * Refactor early; refactor often.
 
-# Wi2ards
----
+If you want to play it (it's free, and without ads/micro-transactions):
+[Download link for Android](https://play.google.com/store/apps/details?id=com.GiveGrowGames.forestree_release)
+[Download link for IOS](https://apps.apple.com/us/app/forestree/id1582491164?itscg=30200&itsct=apps_box_promote_link)
 
+# Wi2ards
 Wi2ards was made in 48 hours for the GMTK Game Jam 2021. I was on a team with 3 others: [Ryan Dotsikas](https://github.com/RyanDotsikas), [James Tugman](https://www.jtugman.com/), and Niki Non. It was our second time working together all as a team and we had the incredible good fortune of finishing in the top 1.2% of participants; considering this was the biggest game jam in history, we are thrilled with this result! I acted as co-developer on the project and led development of the VFX systems used in the game.
 
 The theme for the Game Jam was "Joined Together" and so Wi2ards is a small action game about using magic to string together enemies to make big combos.
 
 <p align="center">
-    <img src="Images/Wi2ards/wi2ards.gif" alt="Playing the Game" width="300"/>
+    <img src="Images/Wi2ards/wi2ard.gif" alt="Playing the Game"/>
 </p>
 
 ---
@@ -51,3 +52,12 @@ I try not to be a results-oriented person when judging the success of my project
 * Polish makes all the difference! This is the first game we really invested in VFX and I really believe it was crucial to the project's success.
 * Sometimes, when in a time-crunch, great is the enemy of good
 * Enemy AI is hard!
+
+You can play for free on [our itch.io page.](https://ryandotsikas.itch.io/wi2ard)
+
+# Air-O-Space
+Air-O-Space was made in 72 hours for the Ludum Dare 48. I was on a team with 3 others: [Ryan Dotsikas](https://github.com/RyanDotsikas), [James Tugman](https://www.jtugman.com/), and Niki Non. It was our first time working together all as a team, and for some of them, their first ever attempt at game development. I worked as co-programmer and was mainly focused on all game elements which the player could interact with via the mouse.
+
+
+The theme for the Game Jam was "Deeper and Deeper" and so Air-O-Space is a silly and hectic game about manually managing how you are breathing to conserve oxygen as you travel into deeper and deeper space.
+
