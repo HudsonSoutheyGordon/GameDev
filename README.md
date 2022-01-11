@@ -1,5 +1,5 @@
 # GameDev
-A collection of the games I have worked on: forestree. Wi2ards, Desert Drift, and Air-O-Space
+A collection of some of the games I have worked on: forestree. Wi2ards, and Air-O-Space
 
 This repo is an overview of each of my gamedev projects. Unfortunately, I cannot host the source code for these out of respecting my teammates wishes, and contractual obligations but I still think it is worth demonstrating them here for my portfolio. If you are an interested collaborator or potential employer, I would be happy to share elements of the code privately.
 
@@ -58,6 +58,23 @@ You can play for free on [our itch.io page.](https://ryandotsikas.itch.io/wi2ard
 # Air-O-Space
 Air-O-Space was made in 72 hours for the Ludum Dare 48. I was on a team with 3 others: [Ryan Dotsikas](https://github.com/RyanDotsikas), [James Tugman](https://www.jtugman.com/), and Niki Non. It was our first time working together all as a team, and for some of them, their first ever attempt at game development. I worked as co-programmer and was mainly focused on all game elements which the player could interact with via the mouse.
 
-
 The theme for the Game Jam was "Deeper and Deeper" and so Air-O-Space is a silly and hectic game about manually managing how you are breathing to conserve oxygen as you travel into deeper and deeper space.
 
+<p align="center">
+    <img src="Images/Air-O-Space/airo.gif" alt="Playing the Game"/>
+</p>
+
+---
+#### Biggest Development Challenge
+Using joints/physics to connect the aliens was an absolute nightmare. Using physics libraries can always be a bit daunting, and this was the first time I had experimented with joints. It consumed a lot of my time fine-tuning it and preventing crazy physics glitches. Eventually I worked it out mainly through trial-and-error.
+
+#### Biggest Development Success
+I was really pleased with how it turned out considering this was the first project for some of the team, and our first time working together. I learned a lot about teaching others (including someone who had never touched any coding!) and how to effectively leverage a team's strengths.
+
+#### Some of the Lessons Learned
+* Trying a new physics library during a time-crunch is dangerous.
+* "Temporary Design Choices" are rarely temporary; our "temporary" choice for Q and P as the keys used to breathe proved disastrous for most users.
+* 2D lights are fun and can make a huge a difference in a scene.
+
+
+You can play for free on [our itch.io page.](https://zoarfy.itch.io/air-o-space)
